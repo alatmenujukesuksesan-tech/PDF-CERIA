@@ -1,0 +1,9 @@
+{
+  "name": "PDF Ceria",
+  "short_name": "PDF Ceria",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#6b8f71",
+  "description": "Pembaca, coret, dan cetak PDF untuk belajar."
+}
